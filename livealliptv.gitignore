@@ -1,0 +1,242 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo=""  group-title="CANAIS ABERTOS" aspect-ratio="16:9" ,[COLOR red]LIVEALL IPTV[/COLOR]
+http://flixanity.watch/files/default_universal.mp4
+#EXTINF:-1 ,SBT
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
+#EXTINF:-1 ,REDETV!
+http://www.iptvip.com:25461/live/cel_pan@hotmail.com/STczNvPtDP/190.ts
+#EXTINF:-1 ,GNT
+http://www.iptvip.com:25461/live/cel_pan@hotmail.com/STczNvPtDP/220.ts
+#EXTINF:-1 ,TV ESTUDIO BRASIL
+http://stmv2.srvstm.com/tvestudiobrasil/tvestudiobrasil/playlist.m3u8?
+#EXTINF:-1 ,Viva
+http://www.iptvip.com:25461/live/cel_pan@hotmail.com/STczNvPtDP/169.ts
+################################################################################################################################
+#EXTINF:-1 tvg-logo="", [COLOR red]CANAL KIDS [/COLOR]
+http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8?
+#EXTINF:-1,NICKELODEON
+http://www.iptvip.com:25461/live/cel_pan@hotmail.com/STczNvPtDP/205.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://151.80.27.111:25461/live/BA2cfibLNg/mHO3kN4xIW/96.m3u8
+#EXTINF:-1,DISNEY JR
+http://151.80.27.111:25461/live/BA2cfibLNg/mHO3kN4xIW/97.m3u8
+#EXTINF:-1,DISNEY XD
+http://151.80.27.111:25461/live/BA2cfibLNg/mHO3kN4xIW/98.m3u8
+################################################################################################################################
+#EXTINF:-1 tvg-logo="",[COLOR red]CANAL DOCUMENTARIO[/COLOR]
+http://192.99.150.31:9191/stream?IPTVONLINE
+#EXTINF:-1 ,FISH TV
+http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream2/playlist.m3u8
+#EXTINF:-1,A&E
+http://151.80.27.111:25461/live/BA2cfibLNg/mHO3kN4xIW/87.m3u8
+#########################################################################################################################
+#EXTINF:-1 tvg-logo="",[COLOR red]CANAL DISCOVERY[/COLOR]
+http://cdn.djing.com/tv/a-05.m3u8
+##################################################################################################################
+#EXTINF:-1 tvg-logo="",[COLOR red]CANAL RELIGIOSO[/COLOR]
+http://192.99.101.129:1935/rafael926/rafael926/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",RIT
+http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",IMPD TV
+http://impd.crossdigital.com.br:1935/impd/impd/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",REDE SUPER
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",NOVO TEMPO
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",CANCAO NOVA
+http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+#########################################################################################################################
+#EXTINF:-1 tvg-logo="",[COLOR red]CANAL LUTAS e SPORT[/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+################################################################################################################################
+#EXTINF:-1 tvg-logo="",[COLOR red]CANAL SPORTV[/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+################################################################################################################################
+#EXTINF:-1 tvg-logo="",[COLOR red]CANAL EI SPORT[/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#########################################################################################################################
+#EXTINF:-1 tvg-logo="",[COLOR red]CANAL PREMIERE[/COLOR]
+http://cdn.djing.com/tv/a-05.m3u8
+#########################################################################################################################
+#EXTINF:-1 tvg-logo="",[COLOR red]CANAL CABO[/COLOR]
+http://192.99.101.129:1935/rafael926/rafael926/playlist.m3u8
+#########################################################################################################################
+#EXTINF:-1 tvg-logo="",[COLOR red]CANAL FOX[/COLOR]
+http://cdn.djing.com/tv/a-05.m3u8
+#########################################################################################################################
+#EXTINF:-1 tvg-logo="",[COLOR red]CANAL TELECINES[/COLOR]
+http://cdn.djing.com/tv/a-05.m3u8
+#########################################################################################################################
+#EXTINF:-1 tvg-logo="",[COLOR green]CANAL CLIP MUSICAIS[/COLOR]
+http://cdn.djing.com/tv/a-05.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",TV SI 
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",TV ATOMIC 
+rtmp://5.154.185.153/live/live.flv
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",TV DREAM 
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",TV RADIOU
+rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/ playpath=mp4:radioutv1 swfUrl=http://radiou.com/jwplayer/jwplayer.flash.swf pageUrl=http://radiou.com/tv/
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",TV MI MUSICA  
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+##################################################################################################################
+#EXTINF:-1 tvg-logo="",[COLOR red]CANAL RADIO FM[/COLOR]
+http://192.99.150.31:9191/stream?IPTVONLINE
+#EXTINF:-1 tvg-logo="" group-title="RADIO",COUNTRY
+http://192.99.150.31:8111/stream?IPTVONLINE
+#EXTINF:-1 tvg-logo="" group-title="RADIO",RODEIO
+http://192.99.150.31:9473/stream?IPTVONLINE
+#EXTINF:-1 tvg-logo="" group-title="RADIO",SAUDADE ANOS 80
+http://192.99.150.31:8697/stream?IPTVONLINE
+#EXTINF:-1 tvg-logo="" group-title="RADIO",DISCOTECA ANOS 70
+http://192.99.150.31:8241/stream?IPTVONLINE
+#EXTINF:-1 tvg-logo="" group-title="RADIO",AXE FOLIA
+http://192.99.150.31:8305/stream?IPTVONLINE
+#EXTINF:-1 tvg-logo="" group-title="RADIO",FORRO
+http://192.99.150.31:9019/stream?IPTVONLINE
+#EXTINF:-1 tvg-logo="" group-title="RADIO",FUNK
+http://192.99.150.31:9089/stream?IPTVONLINE
+#EXTINF:-1 tvg-logo="" group-title="RADIO",JOVEM GUARDA
+http://192.99.150.31:8801/stream?IPTVONLINE
+#EXTINF:-1 tvg-logo="" group-title="RADIO",MPB MUSICALIDADE
+http://192.99.150.31:8775/stream?IPTVONLINE
+#EXTINF:-1 tvg-logo="" group-title="RADIO",CLUBE DA CRIANCA
+http://192.99.150.31:9431/stream?IPTVONLINE
+#EXTINF: -1 group-title = "RADIO"= true,SERTANEJO RAIZES 2
+http://192.99.150.31:9155/stream?IPTVONLINE
+#EXTINF: -1 group-title = "RADIO"= true,RAP NACIONAL 2
+http://192.99.150.31:8377/stream?IPTVONLINE
+#EXTINF: -1 group-title = "RADIO"= true,REGGAE 2
+http://192.99.150.31:8715/stream?IPTVONLINE
+#EXTINF: -1 group-title = "RADIO"= true,ROBERTO CARLOS 2
+http://192.99.150.31:9137/stream?IPTVONLINE
+#EXTINF: -1 group-title = "RADIO"= true,ROCK CLASSICO 2
+http://192.99.150.31:9125/stream?IPTVONLINE
+#EXTINF: -1 group-title = "RADIO"= true,RODEIO 2
+http://192.99.150.31:9473/stream?IPTVONLINE
+#EXTINF: -1 group-title = "RADIO"= true,SERTANEJA 2
+http://192.99.150.31:9485/stream?IPTVONLINE
+#EXTINF: -1 group-title = "RADIO"= true,SMOOTH JAZZ 2
+http://192.99.150.31:8042/stream?IPTVONLINE
+#EXTINF: -1 group-title = "RADIO"= true,TECHNO 2
+http://192.99.150.31:8301/stream?IPTVONLINE
+#EXTINF: -1 group-title = "RADIO"= true,TECNOBREGA 2
+http://192.99.150.31:8989/stream?IPTVONLINE
+#EXTINF: -1 group-title = "RADIO"= true,STUDIO DO AMOR 2
+http://192.99.150.31:8962/stream?IPTVONLINE
+#EXTINF: -1 group-title = "RADIO"= true,HISTORINHA INFANTIL 2
+http://192.99.150.31:8371/stream?IPTVONLINE
+#################################################################
+#EXTINF:-1 tvg-logo="",[COLOR green]CANAL FILMES 24HORAS[/COLOR]
+rtmp://208.53.164.194/live/ playpath=lost swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/lost.php
+#EXTINF:-1 tvg-logo="",[COLOR red]CLIQUE 3X NO CANAL[/COLOR]
+rtmp://208.53.164.194/live/ playpath=lost swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/lost.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/71u76azrh/PRISONBREAK.png" group-title="Séries 24 Horas",PRISON BREAK
+rtmp://208.53.164.194/live/ playpath=prison swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/prisonbreak.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ko61parhp/Friends.png" group-title="Séries 24 Horas",FRIENDS Legendado
+rtmp://208.53.164.194/live/ playpath=friends swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/friends.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/u5unyw32j/GLEE.png" group-title="Séries 24 Horas",GLEE
+rtmp://208.53.164.194/live/ playpath=glee swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/glee.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ibdq9rq19/DRAKE_E_JOSH.png" group-title="Séries 24 Horas",DRAKE / JOSH
+rtmp://208.53.164.194/live/ playpath=drake swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/drakejosh.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ppygoemj1/CASTELO_RA_TIM_BUM.png" group-title="Séries 24 Horas",CASTELO RA TIM BUM
+rtmp://208.53.164.194/live/ playpath=castelo swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/castelo.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ydz3ii07h/TWO_ANDAHALF_MEN.png" group-title="Séries 24 Horas",TWO AND A HALF MEM
+rtmp://208.53.164.194/live/ playpath=two swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/two.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/m4hk7fuel/Charlie_Chaplin_Theory.jpg" group-title="Séries 24 Horas",CHARLIE CHAPLIN
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/fgkykuawd/Star_Trek.png" group-title="Séries 24 Horas",STAR TREK
+rtmp://158.69.26.98:1935/tvjornadanasestrelas/ playpath=tvjornadanasestrelas swfUrl=http://www.tvamigos.rf.gd/swf/player.swf pageUrl=http://www.tvamigos.rf.gd/canais/star-trek.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/cpmpryzyl/BIGBANGTHEORY.png" group-title="Séries 24 Horas",BIG BANG THEORY
+rtmp://208.53.164.194/live/ playpath=big swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/bigbang.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5p3bcxnkd/BREAKING_BAD.png" group-title="Séries 24 Horas",BREAKING BAD
+rtmp://208.53.164.194/live/ playpath=breaking swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/breaking.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/d6cis5d3h/CHAVES.png" group-title="Séries 24 Horas",CHAVES
+rtmp://208.53.164.194/live/ playpath=chaves swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/chaves.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5rn6zrr7x/CRIMINAL_MINDS.png" group-title="Séries 24 Horas",CRIMINAL MINDS 
+rtmp://208.53.164.194/live/ playpath=criminal swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/criminalminds.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4145ya9ot/CHUNCK.png" group-title="Séries 24 Horas",CHUCK Legendado
+rtmp://208.53.164.194/live/ playpath=chuck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/chuck.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/t8f1yjcst/CSI.png" group-title="Séries 24 Horas",CSI Legendado
+rtmp://208.53.164.194/live/ playpath=csi swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/csi.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5t1q6xifh/EUAPATROAEASCRIANCAS.png" group-title="Séries 24 Horas",MY WIFW AND KIDS
+rtmp://208.53.164.194/live/ playpath=patroa swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/patroa.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/6l4e64mml/GOSSIO_GIRL.png" group-title="Séries 24 Horas",GOSSIP GIRL
+rtmp://208.53.164.194/live/ playpath=gossip swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/gossip.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4vvay26x9/HEROES.png" group-title="Séries 24 Horas",HEROES REBORN
+rtmp://208.53.164.194/live/ playpath=heroes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/heroes.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/3uv28xpxp/ICARLY.png" group-title="Séries 24 Horas",ICARLY
+rtmp://208.53.164.194/live/ playpath=icarly swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/icarly.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/uxxby379p/KENAN_E_KEL.png" group-title="Séries 24 Horas",KENAN / KEL
+rtmp://208.53.164.194/live/ playpath=kenan swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/kenanekel.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5s1fodcb1/SMALLVILLE.png" group-title="Séries 24 Horas",SMALLVILLE
+rtmp://208.53.164.194/live/ playpath=small swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/small.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/iai14y9al/SUPERNATURAL.png" group-title="Séries 24 Horas",SUPERNATURAL
+rtmp://208.53.164.194/live/ playpath=supernatural swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/supernatural.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/r6st8vzwt/TODOMUNDOONDEIOCRIS.png" group-title="Séries 24 Horas",TODO MUNDO ODEIA O CRIS
+rtmp://208.53.164.194/live/ playpath=cris swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/cris.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5e4p2ihl9/UMMALUCONOPEDA_O.png" group-title="Séries 24 Horas",THE FRESH PRINCE OF BEL-AIR
+rtmp://208.53.164.194/live/ playpath=maluconopedaco swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/maluconopedaco.php
+################################################################
+#EXTINF:-1 tvg-logo="",[COLOR green]CANAL KIDS 24 HORAS[/COLOR]
+rtmp://208.53.164.194/live/ playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/tomejerry.php
+#EXTINF:-1 tvg-logo="",[COLOR red]CLIQUE 3X NO CANAL[/COLOR]
+rtmp://208.53.164.194/live/ playpath=lost swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/lost.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/vtyvann9p/TOMEJERRY.png" group-title="Desenhos 24 Horas",Tom and Jerry
+rtmp://208.53.164.194/live/ playpath=tom swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/tomejerry.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/b111zzk3x/XMEN.png" group-title="Desenhos 24 Horas",X-MEN 
+rtmp://208.53.164.194/live/ playpath=xmen swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/xmen.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/9s3j3hwg9/MUNDODEBOBBYS.png" group-title="Desenhos 24 Horas",BOBBYS WORLD 
+rtmp://208.53.164.194/live/ playpath=bobby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/bobby.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/c1n20ig09/JACK_CHAN.png" group-title="Desenhos 24 Horas",JACKIE CHAN Adventures 
+rtmp://208.53.164.194/live/ playpath=jackie swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/jackie.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/mhtzbd099/BOB_ESPONJA.png" group-title="Desenhos 24 Horas",BOB SPONJA - 
+rtmp://208.53.164.194/live/ playpath=bob swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/bobesponja.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pfqy527wt/CAVALEIROS_DO_ZODIACO.png" group-title="Desenhos 24 Horas",OS CAVALEIROS DO ZODIACO 
+rtmp://208.53.164.194/live/ playpath=cdz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/cdz.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/egac776vh/DUCKTALES.png" group-title="Desenhos 24 Horas",DUCKTALES 
+rtmp://208.53.164.194/live/ playpath=duck swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/ducktales.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/7ail4qxsd/DOUG.png" group-title="Desenhos 24 Horas",DOUG 
+rtmp://208.53.164.194/live/ playpath=doug swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/doug.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/tesr1mlxp/DRAGON_BALL_Z.png" group-title="Desenhos 24 Horas",DRAGON BALL Z 
+rtmp://208.53.164.194/live/ playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/dbz.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/o7c9awuq5/FAMILIA_DINOSAUROS.png" group-title="Desenhos 24 Horas",DINOSAURS 
+rtmp://208.53.164.194/live/ playpath=dino swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/dinossauros.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/l5lh0yhl9/FUTURAMA.png" group-title="Desenhos 24 Horas",FUTURAMA 
+rtmp://208.53.164.194/live/ playpath=futurama swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/futurama.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pc6bgah6x/GALINHA_PINTADINHA.png" group-title="Desenhos 24 Horas",GALINHA PINTADINHA
+rtmp://208.53.164.194/live/ playpath=galinha swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/galinhapintadinha.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/s2k8r839p/JASPION.png" group-title="Desenhos 24 Horas",JASPION 
+rtmp://208.53.164.194/live/ playpath=jaspion swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/jaspion.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/szqo03erx/NARUTO.png" group-title="Desenhos 24 Horas",WATCH NARUTO SHIPPUDEN 
+rtmp://208.53.164.194/live/ playpath=naruto swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/naruto.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/eupwvec25/THEFLINTSTONES.png" group-title="Desenhos 24 Horas",OS FLINSTONES 
+rtmp://208.53.164.194/live/ playpath=flinstones swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/flintstones.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/nw4g909zh/PICA_PAL.png" group-title="Desenhos 24 Horas",WOODY WOODPECKER 
+rtmp://208.53.164.194/live/ playpath=picapau swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/picapau.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5o7m846tp/SCOOBYDOO.png" group-title="Desenhos 24 Horas",SCOOBY DOO 
+rtmp://208.53.164.194/live/ playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/scooby.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/x1ct2vde5/SIMPSONS.png" group-title="Desenhos 24 Horas",OS SIMPSONS
+rtmp://208.53.164.194/live/ playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/simpsons.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/3q0ya4ebx/SOUTHPARK.png" group-title="Desenhos 24 Horas",SOUTH PARK 
+rtmp://208.53.164.194/live/ playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/southpark.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ezy9it8r1/THUNDERCATS.png" group-title="Desenhos 24 Horas",THUNDERCATS 
+rtmp://208.53.164.194/live/ playpath=thunder swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/thunder.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/bq5lnqzkd/FAMILIADAPESADApng.png" group-title="Desenhos 24 Horas",FAMILIA GUY 
+rtmp://208.53.164.194/live/ playpath=family swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/family.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4r5sczkp9/YU_GI_OH.png" group-title="Desenhos 24 Horas",YU-GI-OH! 
+rtmp://208.53.164.194/live/ playpath=yugioh swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/yugioh.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/pk3lnnnv1/PENGUINS_MADAGASCAR.png" group-title="Desenhos 24 Horas",OS PINGUINS DE MADAGASCAR 
+rtmp://208.53.164.194/live/ playpath=pinguins swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/pinguins.php
+#EXTINF:-1 ,The Penguins of Madagascar Dublado
+rtmp://208.53.164.194/live/ playpath=pinguins swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/pinguins.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/ot5tkrf65/PADRINHOSMAGICOS.png" group-title="Desenhos 24 Horas",THE FAIRLY ODDPARENTS Dublado
+rtmp://208.53.164.194/live/ playpath=padrinhos swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/padrinhos.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/jg7sf5ci5/DUNGEONS_E_DRAGONS.png" group-title="Desenhos 24 Horas",DUNGEONS & DRAGONS Dublado
+rtmp://208.53.164.194/live/ playpath=caverna swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/caverna.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/hyviv2mj1/MASCARA.png" group-title="Desenhos 24 Horas",HE MASK DUBLADO
+rtmp://208.53.164.194/live/ playpath=maskara swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/maskara.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/twjb3qm4t/BATMAN.png" group-title="Desenhos 24 Horas",BATMAM Dublado
+rtmp://208.53.164.194/live/ playpath=batman swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/batman.php
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/m7mgs0ln1/BEN10.png" group-title="Desenhos 24 Horas",BEN 10 Dublado
+rtmp://208.53.164.194/live/ playpath=ben10 swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/ben10.php
+#################################################################
