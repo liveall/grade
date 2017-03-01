@@ -3,36 +3,8 @@
 http://flixanity.watch/files/default_universal.mp4
 #EXTINF:-1 ,SBT
 http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
-#EXTINF:-1 ,REDETV!
-http://www.iptvip.com:25461/live/cel_pan@hotmail.com/STczNvPtDP/190.ts
-#EXTINF:-1 ,GNT
-http://www.iptvip.com:25461/live/cel_pan@hotmail.com/STczNvPtDP/220.ts
-#EXTINF:-1 ,TV ESTUDIO BRASIL
-http://stmv2.srvstm.com/tvestudiobrasil/tvestudiobrasil/playlist.m3u8?
-#EXTINF:-1 ,Viva
-http://www.iptvip.com:25461/live/cel_pan@hotmail.com/STczNvPtDP/169.ts
 ################################################################################################################################
-#EXTINF:-1 tvg-logo="", [COLOR red]CANAL KIDS [/COLOR]
-http://stmv1.hostgs.net:1935/jtvmilk/jtvmilk/live.m3u8?
-#EXTINF:-1,NICKELODEON
-http://www.iptvip.com:25461/live/cel_pan@hotmail.com/STczNvPtDP/205.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://151.80.27.111:25461/live/BA2cfibLNg/mHO3kN4xIW/96.m3u8
-#EXTINF:-1,DISNEY JR
-http://151.80.27.111:25461/live/BA2cfibLNg/mHO3kN4xIW/97.m3u8
-#EXTINF:-1,DISNEY XD
-http://151.80.27.111:25461/live/BA2cfibLNg/mHO3kN4xIW/98.m3u8
-################################################################################################################################
-#EXTINF:-1 tvg-logo="",[COLOR red]CANAL DOCUMENTARIO[/COLOR]
-http://192.99.150.31:9191/stream?IPTVONLINE
-#EXTINF:-1 ,FISH TV
-http://slrp.sambavideos.sambatech.com/liveevent/fishtvabr_fbc599e48634a06e1b7223987b93de98/livestream2/playlist.m3u8
-#EXTINF:-1,A&E
-http://151.80.27.111:25461/live/BA2cfibLNg/mHO3kN4xIW/87.m3u8
-#########################################################################################################################
-#EXTINF:-1 tvg-logo="",[COLOR red]CANAL DISCOVERY[/COLOR]
-http://cdn.djing.com/tv/a-05.m3u8
-##################################################################################################################
+################################################################################################################################################################################################################################################
 #EXTINF:-1 tvg-logo="",[COLOR red]CANAL RELIGIOSO[/COLOR]
 http://192.99.101.129:1935/rafael926/rafael926/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",RIT
@@ -46,28 +18,6 @@ http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",CANCAO NOVA
 http://cancaonova-push-live.hls.adaptive.level3.net:80/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
 #########################################################################################################################
-#EXTINF:-1 tvg-logo="",[COLOR red]CANAL LUTAS e SPORT[/COLOR]
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-################################################################################################################################
-#EXTINF:-1 tvg-logo="",[COLOR red]CANAL SPORTV[/COLOR]
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-################################################################################################################################
-#EXTINF:-1 tvg-logo="",[COLOR red]CANAL EI SPORT[/COLOR]
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#########################################################################################################################
-#EXTINF:-1 tvg-logo="",[COLOR red]CANAL PREMIERE[/COLOR]
-http://cdn.djing.com/tv/a-05.m3u8
-#########################################################################################################################
-#EXTINF:-1 tvg-logo="",[COLOR red]CANAL CABO[/COLOR]
-http://192.99.101.129:1935/rafael926/rafael926/playlist.m3u8
-#EXTINF:-1,Universal Channel (BR)
-http://193.70.14.216:25461/live/iptvclient/1234/16.ts
-#########################################################################################################################
-#EXTINF:-1 tvg-logo="",[COLOR red]CANAL FOX[/COLOR]
-http://cdn.djing.com/tv/a-05.m3u8
-#########################################################################################################################
-#EXTINF:-1 tvg-logo="",[COLOR red]CANAL TELECINES[/COLOR]
-http://cdn.djing.com/tv/a-05.m3u8
 #########################################################################################################################
 #EXTINF:-1 tvg-logo="",[COLOR green]CANAL CLIP MUSICAIS[/COLOR]
 http://cdn.djing.com/tv/a-05.m3u8
@@ -128,6 +78,262 @@ http://192.99.150.31:8989/stream?IPTVONLINE
 http://192.99.150.31:8962/stream?IPTVONLINE
 #EXTINF: -1 group-title = "RADIO"= true,HISTORINHA INFANTIL 2
 http://192.99.150.31:8371/stream?IPTVONLINE
+#################################################################
+#EXTINF:-1 tvg-logo="",[COLOR red]CANAL CABO[/COLOR]
+http://192.99.150.31:9191/stream?IPTVONLINE
+#EXTINF:-1,A&E (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/178.ts
+#EXTINF:-1,AXN (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/173.ts
+#EXTINF:-1,Animal Planet (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/176.ts
+#EXTINF:-1,Arte 1 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/174.ts
+#EXTINF:-1,BIS (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/167.ts
+#EXTINF:-1,Band (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/171.ts
+#EXTINF:-1,Band News (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/170.ts
+#EXTINF:-1,BBB 17 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/1906.ts
+#EXTINF:-1,Band Sports (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/169.ts
+#EXTINF:-1,Boomerang (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/165.ts
+#EXTINF:-1,Canal Brasil (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/164.ts
+#EXTINF:-1,Canal Sony (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/162.ts
+#EXTINF:-1,Cartoon Network (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/5.ts
+#EXTINF:-1,Cinemax (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/4.ts
+#EXTINF:-1,Combate (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/2.ts
+#EXTINF:-1,Comedy Central (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/161.ts
+#EXTINF:-1,Curta! (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/984.ts
+#EXTINF:-1,Discovery Channel (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/159.ts
+#EXTINF:-1,Discovery Civilization (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/157.ts
+#EXTINF:-1,Discovery H&H (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/156.ts
+#EXTINF:-1,Discovery Kids (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/155.ts
+#EXTINF:-1,Discovery Science (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/153.ts
+#EXTINF:-1,Discovery Turbo (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/152.ts
+#EXTINF:-1,Disney (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/149.ts
+#EXTINF:-1,Disney Jr (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/147.ts
+#EXTINF:-1,Disney XD (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/146.ts
+#EXTINF:-1,E! (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/145.ts
+#EXTINF:-1,EI Max 1 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/141.ts
+#EXTINF:-1,EI Max 2 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/140.ts
+#EXTINF:-1,ESPN (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/139.ts
+#EXTINF:-1,ESPN Brasil (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/138.ts
+#EXTINF:-1,FX (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/122.ts
+#EXTINF:-1,Fish TV (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/132.ts
+#EXTINF:-1,Food Network (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/985.ts
+#EXTINF:-1,Fox (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/131.ts
+#EXTINF:-1,Fox Life (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/128.ts
+#EXTINF:-1,Fox Sports (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/127.ts
+#EXTINF:-1,Fox Sports 2 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/126.ts
+#EXTINF:-1,Futura (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/123.ts
+#EXTINF:-1,GNT (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/115.ts
+#EXTINF:-1,Globo RJ (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/989.ts
+#EXTINF:-1,Globo RS (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/998.ts
+#EXTINF:-1,Globo HD (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/120.ts
+#EXTINF:-1,GloboNews (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/119.ts
+#EXTINF:-1,Gloob (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/117.ts
+#EXTINF:-1,H2 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/113.ts
+#EXTINF:-1,HBO (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/111.ts
+#EXTINF:-1,HBO Family (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/110.ts
+#EXTINF:-1,HBO Plus (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/107.ts
+#EXTINF:-1,HBO Plus*e (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/990.ts
+#EXTINF:-1,HBO Signature (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/105.ts
+#EXTINF:-1,HBO2 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/103.ts
+#EXTINF:-1,The History Channel (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/28.ts
+#EXTINF:-1,I Sat (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/101.ts
+#EXTINF:-1,ID - Investigação Discovery (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/100.ts
+#EXTINF:-1,Ideal TV (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/991.ts
+#EXTINF:-1,Lifetime (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/992.ts
+#EXTINF:-1,MAX (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/95.ts
+#EXTINF:-1,MAX Prime (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/93.ts
+#EXTINF:-1,MAX Prime*e (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/993.ts
+#EXTINF:-1,MAX UP (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/91.ts
+#EXTINF:-1,MTV (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/87.ts
+#EXTINF:-1,Mais Globo Sat (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/97.ts
+#EXTINF:-1,MAX Prime Plus (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/92.ts
+#EXTINF:-1,Megapix (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/89.ts
+#EXTINF:-1,Multishow (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/85.ts
+#EXTINF:-1,Music Box Brasil (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/83.ts
+#EXTINF:-1,NBR (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/994.ts
+#EXTINF:-1,National Geographic (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/80.ts
+#EXTINF:-1,Nick Jr (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/79.ts
+#EXTINF:-1,Nickelodeon (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/78.ts
+#EXTINF:-1,Novo Tempo (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/76.ts
+#EXTINF:-1,OFF (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/75.ts
+#EXTINF:-1,Paramount (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/73.ts
+#EXTINF:-1,Play TV (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/995.ts
+#EXTINF:-1,Premiere 2 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/70.ts
+#EXTINF:-1,Premiere 3 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/68.ts
+#EXTINF:-1,Premiere 4 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/66.ts
+#EXTINF:-1,Premiere 5 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/64.ts
+#EXTINF:-1,Premiere 6 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/62.ts
+#EXTINF:-1,Premiere 7 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/61.ts
+#EXTINF:-1,Premiere 8 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/60.ts
+#EXTINF:-1,Premiere 9 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/59.ts
+#EXTINF:-1,Premiere Clubes (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/57.ts
+#EXTINF:-1,Prime Box Brasil (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/56.ts
+#EXTINF:-1,Record News (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/55.ts
+#EXTINF:-1,Rede Brasil (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/999.ts
+#EXTINF:-1,Rede Record (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/54.ts
+#EXTINF:-1,Rede TV (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/53.ts
+#EXTINF:-1,SBT (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/52.ts
+#EXTINF:-1,Sic Internacional (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/49.ts
+#EXTINF:-1,Space (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/48.ts
+#EXTINF:-1,SporTV (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/46.ts
+#EXTINF:-1,SporTV 2 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/45.ts
+#EXTINF:-1,SporTV 2 Alternativo (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/1002.ts
+#EXTINF:-1,SporTV 3 (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/44.ts
+#EXTINF:-1,SporTV Alternativo (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/1003.ts
+#EXTINF:-1,Studio Universal (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/43.ts
+#EXTINF:-1,Syfy (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/42.ts
+#EXTINF:-1,TBS (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/41.ts
+#EXTINF:-1,TCM (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/40.ts
+#EXTINF:-1,TLC (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/26.ts
+#EXTINF:-1,TNT (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/24.ts
+#EXTINF:-1,TNT Series (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/21.ts
+#EXTINF:-1,TV Aparecida (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/981.ts
+#EXTINF:-1,TV Brasil (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/18.ts
+#EXTINF:-1,TV Cancao Nova (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/983.ts
+#EXTINF:-1,TV Cultura (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/17.ts
+#EXTINF:-1,TV Prime Box Brazil (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/996.ts
+#EXTINF:-1,TV RBI (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/997.ts
+#EXTINF:-1,TV RIT (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/1001.ts
+#EXTINF:-1,TV Ra-Tim-Bum (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/1007.ts
+#EXTINF:-1,TV Rede Vida (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/1000.ts
+#EXTINF:-1,Telecine Action (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/39.ts
+#EXTINF:-1,Telecine Cult (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/37.ts
+#EXTINF:-1,Telecine Fun (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/36.ts
+#EXTINF:-1,Telecine Pipoca (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/34.ts
+#EXTINF:-1,Telecine Premium (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/32.ts
+#EXTINF:-1,Telecine Touch (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/30.ts
+#EXTINF:-1,Terra Viva (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/1004.ts
+#EXTINF:-1,Tooncast (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/20.ts
+#EXTINF:-1,TruTV (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/19.ts
+#EXTINF:-1,Universal Channel (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/16.ts
+#EXTINF:-1,VH1 Mega Hits (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/14.ts
+#EXTINF:-1,Viva (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/12.ts
+#EXTINF:-1,Warner Channel (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/10.ts
+#EXTINF:-1,Woohoo (BR)
 #################################################################
 #EXTINF:-1 tvg-logo="",[COLOR green]CANAL FILMES 24HORAS[/COLOR]
 rtmp://208.53.164.194/live/ playpath=lost swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://www.aovivobrasil.com/tvamigos2/lost.php
