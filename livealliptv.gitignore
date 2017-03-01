@@ -60,6 +60,8 @@ http://cdn.djing.com/tv/a-05.m3u8
 #########################################################################################################################
 #EXTINF:-1 tvg-logo="",[COLOR red]CANAL CABO[/COLOR]
 http://192.99.101.129:1935/rafael926/rafael926/playlist.m3u8
+#EXTINF:-1,Universal Channel (BR)
+http://193.70.14.216:25461/live/iptvclient/1234/16.ts
 #########################################################################################################################
 #EXTINF:-1 tvg-logo="",[COLOR red]CANAL FOX[/COLOR]
 http://cdn.djing.com/tv/a-05.m3u8
