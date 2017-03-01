@@ -3,7 +3,30 @@
 http://flixanity.watch/files/default_universal.mp4
 #EXTINF:-1 ,SBT
 http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
-################################################################################################################################
+#EXTINF:-1 tvg-id="Record [Brazil]" tvg-logo="http://s20.postimg.org/s2r5c8fxp/record.png" group-title="CANAL ABERTO",RECORD  
+http://klive-a.akamaihd.net/dc-0/live/hls/p/2143012/e/0_dm4rwkh4/t/BEPMXlN7c-EKVDYFPMUGzg/index-s32-v1-a1.m3u8?
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/tvgazeta.png" group-title="CANAL ABERTO",TV GAZETA 
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:0,CANAL DO BOI
+http://189.86.89.116:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/logos/futura.png" group-title="CANAL ABERTO",FUTURA-TV UNIVATES 
+http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/chunklist_w19089781.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="CANAL ABERTO",TV INES HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream1/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="http://s16.postimg.org/ovcr5gj79/TV_Guarany.png" group-title="CANAL ABERTO",TV GUARANY
+http://wse.stmip.in:1935/rtguarany/rtguarany/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="http://s12.postimg.org/81pdogngt/TV_Est_dio_Brasil.png" group-title="CANAL ABERTO",TV ESTUDIO BRASIL
+http://stmv2.srvstm.com/tvestudiobrasil/tvestudiobrasil/playlist.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="http://s20.postimg.org/6jizer3xp/Amazon_Sat.png" group-title="CANAL ABERTO",AMAZON SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/playlist.m3u8?
+#EXTINF:-1 tvg-id="Shoptime [Brazil]" tvg-logo="http://s20.postimg.org/9g60f19rh/TV_Shoptime.png" group-title="CANAL ABERTO",TV SHOPTIME
+http://cdnapi.kaltura.com:80/p/0/sp/0/playManifest/entryId/1_lld8saie/format/applehttp/live.m3u8?
+#EXTINF:-1 tvg-id="TV Justiça [Brazil]" tvg-logo="http://s20.postimg.org/ne2f8xsx9/TV_Justi_a.png" group-title="CANAL ABERTO",TV JUSTICA
+http://www.tvmpf.mpf.mp.br:1935/event549/event549.stream_720p/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://bugagentesbiologicos.com.br/site/wp-content/uploads/2015/05/canal-terraviva-estreia-tres-novas-atracoes.jpg",TERRA VIVA
+http://evtg.mm.uol.com.br:1935/band/terraviva/chunklist_w2046753198.m3u8
+
+
 ################################################################################################################################################################################################################################################
 #EXTINF:-1 tvg-logo="",[COLOR red]CANAL RELIGIOSO[/COLOR]
 http://192.99.101.129:1935/rafael926/rafael926/playlist.m3u8
